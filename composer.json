@@ -1,0 +1,16 @@
+{
+    "name": "penguin-astronaut/otus-test-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "PenguinAstronaut\\OtusTestPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vadim Kasastkin",
+            "email": "penguin2804@gmail.com"
+        }
+    ],
+    "require": {}
+}
