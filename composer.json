@@ -12,5 +12,7 @@
             "email": "penguin2804@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "8.*"
+    }
 }
